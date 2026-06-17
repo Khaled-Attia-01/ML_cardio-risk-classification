@@ -1,0 +1,16 @@
+#Virtual environments (DevOps protection)
+ml_env/
+.venv/
+venv/
+env/
+
+#Python caching & bytecode compilation files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+#Local configuration overrides
+.env
